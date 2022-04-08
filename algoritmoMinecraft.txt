@@ -1,0 +1,14 @@
+1. Repita por 2 vezes 'avançar'
+2. Destrua o bloco a sua frente
+3. Se encontrar lava, cubra com pedras
+4. Siga em frente
+5. Vire à esquerda
+6. Repita por 2 vezes 'avançar'
+7. Destrua o bloco a sua frente
+8. Se encontrar lava, cubra com pedras
+9. Siga em frente 
+10. Vire à esquerda
+11. Repita por 2 vezes 'avançar'
+12. Destrua o bloco a sua frente
+13. Você chegou no final do seu percurso
+14. Fim
